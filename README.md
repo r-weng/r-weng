@@ -8,6 +8,6 @@
 ![Python](https://img.shields.io/badge/Python-C6DEF1?style=for-the-badge&logo=python&logoColor=111111)
 ![Swift](https://img.shields.io/badge/Swift-DBCDF0?style=for-the-badge&logo=swift&logoColor=111111)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F2C6DE?style=for-the-badge&logo=typescript&logoColor=111111)
-![Flask](https://img.shields.io/badge/Flask-F7D9C4?style=for-the-badge&logo=flask&logoColor=111111)
-![React](https://img.shields.io/badge/React-FAEDCB?style=for-the-badge&logo=react&logoColor=111111)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-DBCDF0?style=for-the-badge&logo=tailwindcss&logoColor=111111)
+![Flask](https://img.shields.io/badge/Flask-F7D9C4?style=for-the-badge&logo=flask&logoColor=111111)<br>
+![React](https://img.shields.io/badge/React-F7D9C4?style=for-the-badge&logo=react&logoColor=111111)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-F2C6DE?style=for-the-badge&logo=tailwindcss&logoColor=111111)
