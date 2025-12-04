@@ -3,7 +3,7 @@
 
 **Languages & Tools**
 
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FAEDCB)
+![Java](https://img.shields.io/badge/Java-FAEDCB?style=for-the-badge&logo=openjdk&logoColor=111111)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=C9E4DE)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=C6DEF1)
 ![Swift](https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift&logoColor=DBCDF0)
