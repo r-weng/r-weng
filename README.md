@@ -1,4 +1,4 @@
-## Hi! I'm Rui 👋
+## Hi! I'm Rui 👋🏼
 > I'm a second-year computer science and math student at the University of Toronto.
 
 **Languages & Tools**
