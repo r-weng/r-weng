@@ -18,5 +18,3 @@
 ![Docker](https://img.shields.io/badge/Docker-FAEDCB?style=for-the-badge&logo=docker&logoColor=111111)
 ![Git](https://img.shields.io/badge/Git-C9E4DE?style=for-the-badge&logo=git&logoColor=111111)
 ![Vercel](https://img.shields.io/badge/Vercel-C6DEF1?style=for-the-badge&logo=vercel&logoColor=111111)
-
-Currently learning ![C](https://img.shields.io/badge/C-FAEDCB?style=for-the-badge&logo=c&logoColor=111111)
