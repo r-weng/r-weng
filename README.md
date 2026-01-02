@@ -14,7 +14,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-DBCDF0?style=for-the-badge&logo=nextdotjs&logoColor=111111)
 ![Node.js](https://img.shields.io/badge/Node.js-C6DEF1?style=for-the-badge&logo=nodedotjs&logoColor=111111)
 ![HTML](https://img.shields.io/badge/HTML-C9E4DE?style=for-the-badge&logo=html5&logoColor=111111)
-![CSS](https://img.shields.io/badge/CSS-FAEDCB?style=for-the-badge&logo=css3&logoColor=111111)
+![CSS](https://img.shields.io/badge/CSS-FAEDCB?style=for-the-badge&logo=css3&logoColor=111111)<br>
 ![Docker](https://img.shields.io/badge/Docker-FAEDCB?style=for-the-badge&logo=docker&logoColor=111111)
 ![Git](https://img.shields.io/badge/Git-C9E4DE?style=for-the-badge&logo=git&logoColor=111111)
 ![Vercel](https://img.shields.io/badge/Vercel-C6DEF1?style=for-the-badge&logo=vercel&logoColor=111111)
